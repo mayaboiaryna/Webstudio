@@ -8,10 +8,17 @@
   --bg-btn-color: #f5f4fa;
   --footer-cotacts-color: rgba(255, 255, 255, 0.6);
   --logo-color: #000000;
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Raleway", sans-serif;
 }
 body {
-  font-family: var(--font-family);
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
 }
+h1 {
+  font-weight: 900;
+}
+
 h2 {
   font-weight: 700;
   font-size: 36px;
